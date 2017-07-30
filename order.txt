@@ -1,0 +1,31 @@
+06:35,2515 July	50 tires 	60 oil 	70 Spark Plugs 	 Rs.5851.1	main road	
+07:39,2544 July	40 tires 	50 oil 	60 Spark Plugs 	 Rs.4716.1	main road	
+15:20,2504 July	56 tires 	75 oil 	98 Spark Plugs 	 Rs.6713.1	M G Road	
+07:06,2726 July	98 tires 	120 oil 	650 Spark Plugs 	 Rs.13561.1	Mumbai	
+13:50,2756 July	50 tires 	154 oil 	96 Spark Plugs 	 Rs.6890.1	COLLEGE ROAD	
+06:22,2922 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+06:22,2956 July	60 tires 	70 oil 	90 Spark Plugs 	 Rs.7031.1	ABB	
+09:57,3048 July	30 tires 	110 oil 	220 Spark Plugs 	 Rs.4946.1	fc road	
+09:59,3033 July	30 tires 	110 oil 	220 Spark Plugs 	 Rs.4946.1	fc road	
+10:00,3010 July	30 tires 	110 oil 	220 Spark Plugs 	 Rs.4946.1	fc road	
+10:02,3015 July	30 tires 	110 oil 	220 Spark Plugs 	 Rs.4946.1	fc road	
+11:11,3035 July	50 tires 	69 oil 	yash Spark Plugs 	 Rs.5821.1	MG Road	
+11:13,3030 July	50 tires 	69 oil 	yash Spark Plugs 	 Rs.5821.1	MG Road	
+11:14,3046 July	50 tires 	69 oil 	yash Spark Plugs 	 Rs.5821.1	MG Road	
+11:16,3039 July	50 tires 	69 oil 	yash Spark Plugs 	 Rs.5821.1	MG Road	
+11:18,3026 July	50 tires 	69 oil 	yash Spark Plugs 	 Rs.5821.1	MG Road	
+11:19,3019 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10431.1	Satpur	
+11:19,3037 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:21,3041 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:22,3018 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:23,3053 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:24,3029 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:25,3006 July	90 tires 	90 oil 	90 Spark Plugs 	 Rs.10381.1	Satpur	
+11:25,3023 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:26,3059 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:27,3017 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:27,3042 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:27,3046 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:27,3057 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:28,3014 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
+11:37,3058 July	 tires 	 oil 	 Spark Plugs 	 Rs.		
